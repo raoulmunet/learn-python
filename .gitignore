@@ -1,0 +1,9 @@
+# Virtualenv
+**/venv
+venv/
+
+# Logs
+*.log
+
+# Tests
+test*.py
